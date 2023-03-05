@@ -1,0 +1,14 @@
+[{
+  "modid": "scamshield",
+  "name": "Scam Shield 👹🛡️",
+  "description": "Open source Anti Scammer mod! ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/zxxxxo/ScamShield",
+  "updateUrl": "https://github.com/zxxxxo/ScamShield/releases",
+  "authorList": ["zxxxxo"],
+  "credits": "noone yet!",
+  "logoFile": "assets/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}]
