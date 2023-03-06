@@ -1,4 +1,5 @@
 # THIS MOD IS NOT PUBLIC YET
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2J91BC)
 # ScamShield 👹🛡️
 Scammer shield. Open source, you can check the code and/or build it yourself!
 
