@@ -6,8 +6,8 @@
   "mcversion": "${mcversion}",
   "url": "https://github.com/zxxxxo/ScamShield",
   "updateUrl": "https://github.com/zxxxxo/ScamShield/releases",
-  "authorList": ["zxxxxo","dxxxxy"],
-  "credits": "noone yet!",
+  "authorList": ["zxxxxo"],
+  "credits": "dxxxxy",
   "logoFile": "assets/logo.png",
   "screenshots": [],
   "dependencies": []
